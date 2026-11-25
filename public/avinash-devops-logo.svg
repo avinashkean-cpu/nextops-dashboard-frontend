@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Avinash DevOps</title>
+  <desc id="desc">Modern dark navy and teal DevOps logo</desc>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#25D9C2"/><stop offset="1" stop-color="#4C8DFF"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#071322" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="1200" height="320" rx="36" fill="#0B1424"/>
+  <g filter="url(#shadow)">
+    <rect x="52" y="52" width="216" height="216" rx="54" fill="url(#g)"/>
+    <path d="M100 202 160 91l60 111h-40l-20-39-21 39z" fill="#081726"/>
+    <path d="M128 158h64" stroke="#F3FBFF" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="221" cy="101" r="12" fill="#F3FBFF"/>
+  </g>
+  <text x="320" y="157" fill="#F4F8FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="78" font-weight="750" letter-spacing="1">AVINASH</text>
+  <text x="324" y="228" fill="#37D8C2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="42" font-weight="650" letter-spacing="10">DEVOPS</text>
+  <path d="M322 250h520" stroke="#27374B" stroke-width="3"/>
+  <circle cx="870" cy="250" r="5" fill="#4C8DFF"/>
+</svg>
